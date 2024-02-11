@@ -7,7 +7,6 @@ This project focuses on implementing and evaluating different machine learning m
 - [Introduction](#introduction)
 - [Models](#models)
 - [Sampling Techniques](#sampling-techniques)
-- [Results](#results)
 - [Prerequisites](#Prerequisites)
 
 
