@@ -35,10 +35,6 @@ To handle imbalanced data, various sampling techniques are applied:
 - ADASYN (Adaptive Synthetic Sampling)
 - BorderlineSMOTE
 
-## Results
-
-The accuracy of each model is evaluated with different sampling techniques. Results are presented in a table format to compare the performance of each combination.
-
 ## Prerequisites
 
 - Python (3.x)
